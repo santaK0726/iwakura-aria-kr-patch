@@ -1,0 +1,15 @@
+__pycache__/
+.venv/
+output/
+patch-data/
+*.zip
+*.mpk
+*.msb
+*.scx
+*.xci
+*.nsp
+*.nca
+*.keys
+*.tik
+*.cert
+*.log

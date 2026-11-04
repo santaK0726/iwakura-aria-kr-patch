@@ -1,0 +1,41 @@
+{
+  "schema": 1,
+  "version": "0.5.1",
+  "archives": [
+    {
+      "name": "bg.mpk",
+      "output_size": 25336506,
+      "output_sha256": "91ddea81f72b222da1de0e2161492b98561fa363ecd833fca08d87d2c6862366"
+    },
+    {
+      "name": "bg_eng.mpk",
+      "output_size": 1995438,
+      "output_sha256": "6fa8026d316e320dcddd2282a24633edd8ad30a3ccf494df18e2bf881164ca8e"
+    },
+    {
+      "name": "bg_jpn.mpk",
+      "output_size": 9832942,
+      "output_sha256": "2c910c08ac82e8981000b71690a5026758ad57a5595771c489327bf13505460e"
+    },
+    {
+      "name": "mes00.mpk",
+      "output_size": 1771666,
+      "output_sha256": "f23a725d8a3080563de987156907ef27c4868b4ced018cac0c503e4ddce8f869"
+    },
+    {
+      "name": "script.mpk",
+      "output_size": 3240082,
+      "output_sha256": "5b6e120f113d906ca2a3f01e3ab4b4b4a012b2fb9fd5b49e2335d67f50dd499f"
+    },
+    {
+      "name": "system.mpk",
+      "output_size": 69180824,
+      "output_sha256": "cf05dd283be3c405a15187d14facfc6de252f11e8eeed65f46fd43f9206a6baf"
+    },
+    {
+      "name": "system_jpn_swi.mpk",
+      "output_size": 28600656,
+      "output_sha256": "57bb572a17b88b3eb16ff55e1032e9fcd478bbfc2472439a76cb807471fa343b"
+    }
+  ]
+}

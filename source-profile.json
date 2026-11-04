@@ -1,0 +1,42 @@
+{
+  "schema": 1,
+  "game_id": "01009BD0209D8000",
+  "revision": "1.0.3 / update v196608",
+  "archives": [
+    {
+      "name": "bg.mpk",
+      "source_size": 16299678,
+      "source_sha256": "0b0f0a0e9046330b104cacb5cfe67022d8f04e8269af8b7b67999a9e36e4f641"
+    },
+    {
+      "name": "bg_eng.mpk",
+      "source_size": 1141744,
+      "source_sha256": "a856acb026db5c3a671ea939bcc221c886e9192ccc42be9313bc31e90fa08bf0"
+    },
+    {
+      "name": "bg_jpn.mpk",
+      "source_size": 1108492,
+      "source_sha256": "d5c4d370c160f1e5792b0c6c40094d126230f45bd48bd5a3a8f8a7f07033a675"
+    },
+    {
+      "name": "mes00.mpk",
+      "source_size": 870360,
+      "source_sha256": "9e81d689ecfbf6747915fee42c274350ff066c486fb4bd69363ac975f91c9d6c"
+    },
+    {
+      "name": "script.mpk",
+      "source_size": 3151896,
+      "source_sha256": "ec6274a8ddef14588f83a6150812cf4ac26968e16ef571e6bf741305a59b994d"
+    },
+    {
+      "name": "system.mpk",
+      "source_size": 43001856,
+      "source_sha256": "6332289c74606d09bfdf69b1a508360c4cbdf4622943af067823ff4d6017bc8d"
+    },
+    {
+      "name": "system_jpn_swi.mpk",
+      "source_size": 13815808,
+      "source_sha256": "b0b58730b8c1266e57270b8346bbcd94a33b9c2842c637b00cdadb580062ce52"
+    }
+  ]
+}

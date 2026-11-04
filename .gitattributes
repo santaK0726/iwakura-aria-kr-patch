@@ -1,0 +1,2 @@
+# Preserve release-generator inputs byte-for-byte on every platform.
+* -text

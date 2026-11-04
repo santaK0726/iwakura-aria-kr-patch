@@ -1,0 +1,125 @@
+{
+  "schema": 1,
+  "version": "0.5.1",
+  "date": "2026-11-05",
+  "distribution": "source-required-public-prerelease",
+  "source_profile": {
+    "schema": 1,
+    "game_id": "01009BD0209D8000",
+    "revision": "1.0.3 / update v196608",
+    "archives": [
+      {
+        "name": "bg.mpk",
+        "source_size": 16299678,
+        "source_sha256": "0b0f0a0e9046330b104cacb5cfe67022d8f04e8269af8b7b67999a9e36e4f641"
+      },
+      {
+        "name": "bg_eng.mpk",
+        "source_size": 1141744,
+        "source_sha256": "a856acb026db5c3a671ea939bcc221c886e9192ccc42be9313bc31e90fa08bf0"
+      },
+      {
+        "name": "bg_jpn.mpk",
+        "source_size": 1108492,
+        "source_sha256": "d5c4d370c160f1e5792b0c6c40094d126230f45bd48bd5a3a8f8a7f07033a675"
+      },
+      {
+        "name": "mes00.mpk",
+        "source_size": 870360,
+        "source_sha256": "9e81d689ecfbf6747915fee42c274350ff066c486fb4bd69363ac975f91c9d6c"
+      },
+      {
+        "name": "script.mpk",
+        "source_size": 3151896,
+        "source_sha256": "ec6274a8ddef14588f83a6150812cf4ac26968e16ef571e6bf741305a59b994d"
+      },
+      {
+        "name": "system.mpk",
+        "source_size": 43001856,
+        "source_sha256": "6332289c74606d09bfdf69b1a508360c4cbdf4622943af067823ff4d6017bc8d"
+      },
+      {
+        "name": "system_jpn_swi.mpk",
+        "source_size": 13815808,
+        "source_sha256": "b0b58730b8c1266e57270b8346bbcd94a33b9c2842c637b00cdadb580062ce52"
+      }
+    ]
+  },
+  "archives": [
+    {
+      "name": "bg.mpk",
+      "output_size": 25336506,
+      "output_sha256": "91ddea81f72b222da1de0e2161492b98561fa363ecd833fca08d87d2c6862366"
+    },
+    {
+      "name": "bg_eng.mpk",
+      "output_size": 1995438,
+      "output_sha256": "6fa8026d316e320dcddd2282a24633edd8ad30a3ccf494df18e2bf881164ca8e"
+    },
+    {
+      "name": "bg_jpn.mpk",
+      "output_size": 9832942,
+      "output_sha256": "2c910c08ac82e8981000b71690a5026758ad57a5595771c489327bf13505460e"
+    },
+    {
+      "name": "mes00.mpk",
+      "output_size": 1771666,
+      "output_sha256": "f23a725d8a3080563de987156907ef27c4868b4ced018cac0c503e4ddce8f869"
+    },
+    {
+      "name": "script.mpk",
+      "output_size": 3240082,
+      "output_sha256": "5b6e120f113d906ca2a3f01e3ab4b4b4a012b2fb9fd5b49e2335d67f50dd499f"
+    },
+    {
+      "name": "system.mpk",
+      "output_size": 69180824,
+      "output_sha256": "cf05dd283be3c405a15187d14facfc6de252f11e8eeed65f46fd43f9206a6baf"
+    },
+    {
+      "name": "system_jpn_swi.mpk",
+      "output_size": 28600656,
+      "output_sha256": "57bb572a17b88b3eb16ff55e1032e9fcd478bbfc2472439a76cb807471fa343b"
+    }
+  ],
+  "changed_members": 97,
+  "authored_text_entries": 10570,
+  "untranslated_story_entries": 138,
+  "image_candidates": 23,
+  "physical_image_members": 31,
+  "ui_caption_regions": 194,
+  "source_candidate_build_report_sha256": "41669502a1d0bbc3190253feac1953f976bb681ccfc0825d175c5a3384fc2c4e",
+  "original_delta_manifest_sha256": "838de93a6468a5171248d4e4310cb84a676844288b4ffcb585d785fc9099c08f",
+  "public_manifest_sha256": "fc75ab829a0f147d4435c2b4fc431234417e2f06a397b29cf34bdd84a1ed214a",
+  "payload_archive_sha256": "65865e3630ccb4b6e6921c583a948c2ac887e1816ec574fa2d2760ddfc673c54",
+  "no_original_game_archives_distributed": true,
+  "source_language_corpus_distributed": false,
+  "keys_firmware_emulators_distributed": false,
+  "delta_payloads_exactly_referenced": true,
+  "prior_user_runtime": "v0.5 UI accepted by user; same UI bytes in v0.5.1",
+  "v051_new_text_runtime": "NOT RUN",
+  "switch_hardware_runtime": "NOT RUN",
+  "full_playthrough": "NOT RUN",
+  "qa_standard": "Installed QA skill references a missing LOCALIZATION_QA_STANDARD.md; skill and existing project checks used",
+  "limitations": [
+    "Public development prerelease of the existing v0.5.1 build; not a fully verified localization.",
+    "10570 authored text entries; 138 story entries retain the source text.",
+    "Four MSB font tests and nine SCX glyph lists retain the source text.",
+    "Manuals and videos remain original by user choice; some decorative inscriptions remain original.",
+    "User accepted v0.5 UI; added v0.5.1 text and Switch hardware runtime are NOT RUN.",
+    "Full semantic review, complete route coverage and actual wrap/page budgets remain unconfirmed."
+  ],
+  "source_to_output_roundtrip": "PASS",
+  "switch_layout_readback": "PASS",
+  "emulator_layout_readback": "PASS",
+  "byte_identical_to_existing_private_packages": true,
+  "rejection_checks": {
+    "wrong_revision_rejected_without_output": "PASS",
+    "existing_output_rejected_and_preserved": "PASS",
+    "corrupt_payload_rejected_without_output": "PASS",
+    "disabled_integrity_checks_rejected": "PASS"
+  },
+  "static_binary_qa": "PASS",
+  "rc_readback_qa": "PASS",
+  "rc_build": "NOT_CLAIMED_DEVELOPMENT_PRERELEASE"
+}
