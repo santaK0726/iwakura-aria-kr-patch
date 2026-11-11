@@ -1,0 +1,113 @@
+{
+  "version": "v0.5.1",
+  "source_language": "日本語 / 일본어",
+  "scope": "업데이트 1.0.3 원본 RomFS MPK 7개와 패치 후 MPK 7개; Switch/에뮬레이터 공통",
+  "post_folder": "03_Iwakura_Aria",
+  "rows": [
+    {
+      "path": "bg.mpk",
+      "source": {
+        "crc32": "876F6A6B",
+        "md5": "444A16540213961DE433EF854303CEF3",
+        "sha256": "0b0f0a0e9046330b104cacb5cfe67022d8f04e8269af8b7b67999a9e36e4f641",
+        "bytes": 16299678
+      },
+      "target": {
+        "crc32": "D32F20DE",
+        "md5": "DB45B6A110AD63D71AA0A080F422F313",
+        "sha256": "91ddea81f72b222da1de0e2161492b98561fa363ecd833fca08d87d2c6862366",
+        "bytes": 25336506
+      }
+    },
+    {
+      "path": "bg_eng.mpk",
+      "source": {
+        "crc32": "65134690",
+        "md5": "6B0E8D5BDF348A48D58952CE0C31204E",
+        "sha256": "a856acb026db5c3a671ea939bcc221c886e9192ccc42be9313bc31e90fa08bf0",
+        "bytes": 1141744
+      },
+      "target": {
+        "crc32": "08613E29",
+        "md5": "9F68F9594B5AC45B44046959CA2B77E5",
+        "sha256": "6fa8026d316e320dcddd2282a24633edd8ad30a3ccf494df18e2bf881164ca8e",
+        "bytes": 1995438
+      }
+    },
+    {
+      "path": "bg_jpn.mpk",
+      "source": {
+        "crc32": "D3C656F5",
+        "md5": "5250605F8488D2CB05D622FDFFB874D5",
+        "sha256": "d5c4d370c160f1e5792b0c6c40094d126230f45bd48bd5a3a8f8a7f07033a675",
+        "bytes": 1108492
+      },
+      "target": {
+        "crc32": "BBB157F2",
+        "md5": "A7AEF12053AAAC6A9D261FAD77114F87",
+        "sha256": "2c910c08ac82e8981000b71690a5026758ad57a5595771c489327bf13505460e",
+        "bytes": 9832942
+      }
+    },
+    {
+      "path": "mes00.mpk",
+      "source": {
+        "crc32": "D9E515C7",
+        "md5": "8F31C055A4E3FE676EA5BC1B47440F7F",
+        "sha256": "9e81d689ecfbf6747915fee42c274350ff066c486fb4bd69363ac975f91c9d6c",
+        "bytes": 870360
+      },
+      "target": {
+        "crc32": "D74277DC",
+        "md5": "210669B24F9D7FC83F8017A37A359628",
+        "sha256": "f23a725d8a3080563de987156907ef27c4868b4ced018cac0c503e4ddce8f869",
+        "bytes": 1771666
+      }
+    },
+    {
+      "path": "script.mpk",
+      "source": {
+        "crc32": "9D41D6C8",
+        "md5": "F4423D0867908022305A9267C7DF60CE",
+        "sha256": "ec6274a8ddef14588f83a6150812cf4ac26968e16ef571e6bf741305a59b994d",
+        "bytes": 3151896
+      },
+      "target": {
+        "crc32": "256B0115",
+        "md5": "9EECF144A562BD1C044FFA946C8D2B23",
+        "sha256": "5b6e120f113d906ca2a3f01e3ab4b4b4a012b2fb9fd5b49e2335d67f50dd499f",
+        "bytes": 3240082
+      }
+    },
+    {
+      "path": "system.mpk",
+      "source": {
+        "crc32": "1F52FD6A",
+        "md5": "C9692BFB7FD09645AFE67C0993AC1830",
+        "sha256": "6332289c74606d09bfdf69b1a508360c4cbdf4622943af067823ff4d6017bc8d",
+        "bytes": 43001856
+      },
+      "target": {
+        "crc32": "561D3488",
+        "md5": "CBD15E7753E3E1A272A35CBCA2A5E4E5",
+        "sha256": "cf05dd283be3c405a15187d14facfc6de252f11e8eeed65f46fd43f9206a6baf",
+        "bytes": 69180824
+      }
+    },
+    {
+      "path": "system_jpn_swi.mpk",
+      "source": {
+        "crc32": "A64B4219",
+        "md5": "4DBA06C3A03F18CBF4205FA21AE3B1DB",
+        "sha256": "b0b58730b8c1266e57270b8346bbcd94a33b9c2842c637b00cdadb580062ce52",
+        "bytes": 13815808
+      },
+      "target": {
+        "crc32": "B5703A11",
+        "md5": "9C245C85CD2C06FCA1A470D6D7F1FAF9",
+        "sha256": "57bb572a17b88b3eb16ff55e1032e9fcd478bbfc2472439a76cb807471fa343b",
+        "bytes": 28600656
+      }
+    }
+  ]
+}

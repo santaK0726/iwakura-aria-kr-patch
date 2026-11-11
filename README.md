@@ -97,3 +97,28 @@ ZIP 자체나 `patch-data` 폴더는 모드 폴더에 넣지 마세요. 에뮬�
 - 생성기에서 사용하는 Pillow·NumPy는 requirements를 통해 별도 설치합니다. [고지](NOTICE.md)를 참고하세요.
 
 원작·상표·원화의 권리는 각 권리자에게 있습니다. 이 프로젝트는 원작의 공식 한국어판이 아닙니다.
+
+<!-- VERIFIED_GAME_HASHES_BEGIN -->
+## 패치시 기반 파일 언어 및 해시값
+
+패치버전: **v0.5.1**  
+패치시 기반 파일 언어: **日本語 / 일본어**
+
+업데이트 1.0.3 원본 RomFS MPK 7개와 패치 후 MPK 7개; Switch/에뮬레이터 공통
+
+아래 값은 전체 해시표의 첫 번째 파일을 대표로 표시한 것입니다. 게임 전체·원본 덤프·패치 ZIP의 해시가 아닙니다. 검사 대상: **`bg.mpk`**
+
+**원본 대상 해시값**
+
+- CRC32 : `876F6A6B`
+- MD5 : `444A16540213961DE433EF854303CEF3`
+
+**패치후 해시값**
+
+- CRC32 : `D32F20DE`
+- MD5 : `DB45B6A110AD63D71AA0A080F422F313`
+
+**[전체 파일별 원본/패치 후 CRC32·MD5 표](docs/FILE_HASHES.md)** · [CSV](docs/FILE_HASHES.csv) · [SHA-256 포함 JSON](docs/FILE_HASHES.json)
+
+해시는 표시된 검사 대상과 버전에만 적용됩니다. CRC32·MD5는 식별용이며, 적용기의 SHA-256 원본 검증은 그대로 유지합니다. 신규 추가 파일은 원본 해시가 없습니다.
+<!-- VERIFIED_GAME_HASHES_END -->
